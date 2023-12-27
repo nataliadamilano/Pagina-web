@@ -13,3 +13,8 @@ ul{
     gap: 10px;
     list-style: none;
 }
+
+section{
+    background-color: pink;
+    text-align: center;
+}
